@@ -72,3 +72,16 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Saved/Logs/ProgramTomorrowsDay.log
+Saved/Config/WindowsEditor/Engine.ini
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Intermediate/CachedAssetRegistry_0.bin
+Saved/AutoScreenshot.png
+*.json
+*.ini
+*.log
+*.log
+*.ini
+*.bin
+*.ush
+*.log
